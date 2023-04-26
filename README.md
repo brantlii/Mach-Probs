@@ -1,2 +1,12 @@
 # Mach-Probs
-4 GPU machine problems for the course ELEC374. Involves coding in CUDA 8, with a device query, matrix addition, multiplication, and tiled multiplication.
+
+
+Created by Brant Li
+
+ELEC374 - Digital Systems Engineering
+
+Department of Electrical and Computer Engineering
+
+Queen's University
+
+Description: GPU machine problems in CUDA C++, with device query, matrix addition, multiplication, and tiled multiplication challenges.
